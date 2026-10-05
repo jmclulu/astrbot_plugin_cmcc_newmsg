@@ -1,0 +1,11 @@
+name: "astrbot_plugin_cmcc_newmsg"
+display_name: "中国移动新消息 (5G消息)"
+author: "yacheng"
+version: "v1.0.0"
+desc: "中国移动新消息（5G消息）平台适配器。通过 WebSocket 长连接接入 5G 消息平台，支持文本与富媒体消息的收发。移植自官方 OpenClaw cmcc-newmsg 插件协议。"
+repo: "https://github.com/jmclulu/astrbot_plugin_cmcc_newmsg"
+astrbot_version: ">=4.0.0"
+tags:
+  - 平台适配器
+  - 5G消息
+  - 中国移动
